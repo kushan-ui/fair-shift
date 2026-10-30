@@ -1,0 +1,6 @@
+streamlit>=1.35.0
+ortools>=9.9.3963
+pandas>=2.2.0
+plotly>=5.20.0
+pytest>=8.0.0
+tabulate>=0.9.0

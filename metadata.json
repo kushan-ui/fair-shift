@@ -1,0 +1,6 @@
+{
+  "name": "FAIRSHIFT — Allocation & Impact Analysis System",
+  "description": "Transparent Allocation. Minimal Disruption. Verifiable Decisions. Auditable training seat allocation using Google OR-Tools CP-SAT constraint optimization, counterfactual appeal evaluation, and independent verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
